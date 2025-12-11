@@ -1,0 +1,23 @@
+{
+  "name": "playwrite_kurz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petra-svg/playwrite_kurz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petra-svg/playwrite_kurz/issues"
+  },
+  "homepage": "https://github.com/petra-svg/playwrite_kurz#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  }
+}
